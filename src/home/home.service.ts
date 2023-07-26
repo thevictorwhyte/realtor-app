@@ -65,6 +65,7 @@ export class HomeService {
           },
           take: 1,
         },
+        realtor: true,
       },
       where: {
         id,
